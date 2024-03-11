@@ -1,0 +1,12 @@
+[
+    {
+      "id": "nameId",
+      "condition": "equals",
+      "value": "Timmy"
+    },
+    {
+      "id": "birthdayId",
+      "condition": "greater_than",
+      "value": "2024-02-23T05:01:47.691Z"
+    }
+  ]
